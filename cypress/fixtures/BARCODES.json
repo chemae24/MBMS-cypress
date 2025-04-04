@@ -1,0 +1,27 @@
+{
+  "credential" : {
+    "Email":"mmbdadmin@timelessmedical.com",
+    "Password":"T1mele$$"
+  },
+
+
+  "ActiveDeposit": {
+        "dep1": "DEP176621",
+        "dep2": "DEP175453",
+        "Milkbankdep":""
+    },
+
+
+
+  "POOL": "001503",
+  "BATCH": "",
+  "Order":"",
+  "Volume":"100",
+  "unit":{
+    "unit1" : "oz",
+    "unit2" : "ml"
+
+  }
+  
+  
+}
